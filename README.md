@@ -10,16 +10,16 @@
     <a href="https://ameyswami35.github.io/portfolio/"> ameyswami35.github.io/portfolio</a>
     <br />
     <br />
-    <a href="https://ameyswami35.com">About Me</a>
+    <a href="https://ameyswami35.github.io/portfolio/">About Me</a>
     ·
     <a href="https://github.com/ameyswami35/portfolio/issues">Report Bug</a>
     ·
-    <a href="https://github.com/hashirshoaeb/portfolio/issues">Request Feature</a>
+    <a href="https://github.com/ameyswami35/portfolio/issues">Request Feature</a>
   </p>
 </p>
 
 [![GitHub forks](https://img.shields.io/github/forks/ameyswami35/portfolio?style=for-the-badge)](https://github.com/ameyswami35/portfolio/network)
-[![GitHub license](https://img.shields.io/github/license/ameyswami35/portfolio?style=for-the-badge)](https://github.com/ameyswami/portfolio/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/sushant0802/portfolio?style=for-the-badge)](https://github.com/sushant0802/portfolio/blob/main/LICENSE)
 
 
 
@@ -67,7 +67,7 @@ Building your own personal website from this project can take as little as 30 mi
       git clone https://github.com/<your-username>/portfolio.git
     ``` 
 
-2. Edit the [config/config.js](https://github.com/hashirshoaeb/portfolio/blob/main/config/config.js) file. Replace [config/profile.png](https://github.com/hashirshoaeb/portfolio/blob/main/config/profile.png) with your image. 
+2. Edit the [config/config.js](https://github.com/ameyswami35/portfolio/blob/main/config/config.js) file. Replace [config/profile.png](https://github.com/ameyswami35/portfolio/blob/main/config/profile.png) with your image. 
     >Note: You need to rename your image file as `profile.png`.
 
 
@@ -84,4 +84,4 @@ Simply you just need to commit and push your changes to github. And [GitHub Acti
 <!-- LICENSE -->
 # License
 
-Distributed under the `MIT` License. See [LICENSE](https://github.com/hashirshoaeb/portfolio/blob/main/LICENSE) for more information.
+Distributed under the `MIT` License. See [LICENSE](https://github.com/sushant0802/portfolio/blob/main/LICENSE) for more information.
