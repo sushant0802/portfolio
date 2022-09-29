@@ -48,7 +48,7 @@
 # About The Project
 <p align="center">
   <kbd>
-<img src="https://user-images.githubusercontent.com/97898007/192786161-5ffb84dc-b025-4428-828d-287894c240c9.gif"></img>
+<img src="https://user-images.githubusercontent.com/97898007/192988640-e7fcae20-cce3-452c-aa84-20d6914d2195.gif"></img>
    </kbd>
 </p>
 There are many portfolio website templates available on Github, however, I didn't find one that really suit my needs so I created this one. A simple, easy to configure, lightweight, and responsive static portfolio website.
